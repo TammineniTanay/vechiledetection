@@ -1,0 +1,28 @@
+python Main1.py --input inputVideos/bridge.mp4 --output outputVideos/bridgeOut.avi --yolo yolo-
+
+python Main1.py --input C:\Users\Lenovo\Documents\python\RealTimeVehicleProject\inputVideos\bridge.mp4 --output outputVideos/bridgeOut.avi --yolo yolo-
+
+
+
+python Main1.py --input inputVideos/bridge.mp4 --output outputVideos/bridgeOut.avi --yolo yolo-coco --confidence 0.3
+
+python Main1.py --input inputVideos/bridge.mp4 --output outputVideos/bridgeOut.avi --yolo yolo-coco --use-gpu 1
+
+
+Python 3.6.9 to above
+Pip install python3-pip 
+pip install opencv-python==4.3.0.38
+pip install imutils==0.5.4
+pip install scipy==1.4.1
+
+python.org/ftp/python/
+https://www.sublimetext.com/3
+
++ Upload the video file()
++ Create frames()
++ Importing Data()
++ BackgroundSubtration()
++ Image Enchantment()
++ Foreground Mask()
++ Design Outline of vehicle() 
++ Vehicle Count()
